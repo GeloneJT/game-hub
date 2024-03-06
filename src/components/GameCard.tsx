@@ -1,7 +1,7 @@
 import React from 'react';
 import { Game } from '../hooks/useGames';
 import { Card, CardBody, HStack, Heading, Image, Text } from '@chakra-ui/react';
-import PlatformIconList from './PlatFormIconList';
+import PlatformIconList from './PlatformIconList';
 import CriticScore from './CriticScore';
 
 interface Props {
