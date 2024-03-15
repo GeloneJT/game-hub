@@ -24,3 +24,5 @@ api-client.ts
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
