@@ -4,7 +4,7 @@ const config: ThemeConfig = {
   initialColorMode: 'dark',
 };
 
-const theme = extendTheme({ 
+const theme = extendTheme({
   colors: {
     gray: {
       50: '#f9f9f9',
@@ -17,9 +17,9 @@ const theme = extendTheme({
       700: '#202020',
       800: '#121212',
       900: '#111',
-
-    }
+    },
   },
-  config,});
+  config,
+});
 
-export default theme
+export default theme;
